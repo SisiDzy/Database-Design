@@ -1,0 +1,1000 @@
+1,Renee,Mixed,Cheap,Chelsea,09:00,23:00,3.2,TRUE
+2,Royce,Spanish,Expensive,TriBeCa,10:00,19:00,3.2,FALSE
+3,Rosalind,Mexican,Cheap,Midtown,09:00,22:00,4.5,TRUE
+4,Garry,African,Expensive,Harlem,09:00,23:00,2.5,TRUE
+5,Estelle,African,Cheap,Gramercy Park,08:00,22:00,3.7,FALSE
+6,Brnaby,Chinese,Expensive,SoHo,10:00,22:00,4.4,FALSE
+7,Guthrey,French,Cheap,Midtown,09:00,18:00,2.9,FALSE
+8,Pandora,Chinese,Medium,Inwood,09:00,19:00,3.1,FALSE
+9,Risa,Mixed,Medium,Battery Park City,08:00,22:00,4.2,FALSE
+10,Billy,Mixed,Expensive,Washington Heights,06:00,23:00,4.1,TRUE
+11,Marika,Italian,Cheap,Greenwich Village,08:00,18:00,4.7,FALSE
+12,Dilan,African,Medium,TriBeCa,07:00,21:00,2.0,FALSE
+13,Clary,Mexican,Medium,Washington Heights,11:00,16:00,3.7,TRUE
+14,Audy,Mixed,Medium,Harlem,09:00,18:00,2.8,FALSE
+15,Hesther,Italian,Expensive,Greenwich Village,11:00,16:00,4.3,TRUE
+16,Kettie,Japanese,Cheap,Gramercy Park,10:00,21:00,4.4,TRUE
+17,Nick,African,Cheap,Greenwich Village,06:00,22:00,2.7,FALSE
+18,Lulu,American,Expensive,Inwood,06:00,22:00,3.6,FALSE
+19,Shurlocke,French,Medium,Midtown,07:00,20:00,2.8,TRUE
+20,Hana,African,Cheap,Morningside Heights,11:00,23:00,2.1,TRUE
+21,Kayle,Chinese,Expensive,West Village,07:00,23:00,2.7,TRUE
+22,Kimberley,Chinese,Expensive,Harlem,11:00,21:00,4.7,FALSE
+23,Erika,Japanese,Medium,Gramercy Park,06:00,19:00,2.6,TRUE
+24,Hurley,Mixed,Medium,West Village,10:00,17:00,3.9,FALSE
+25,Caryl,Japanese,Expensive,Inwood,06:00,23:00,2.8,TRUE
+26,Granny,Japanese,Medium,Murray Hill,07:00,17:00,3.2,FALSE
+27,Cherri,Japanese,Medium,Inwood,08:00,19:00,3.5,FALSE
+28,Brinn,French,Expensive,Central Harlem,07:00,21:00,4.0,TRUE
+29,Sammy,Spanish,Cheap,Upper East Side,06:00,18:00,3.6,FALSE
+30,Marlo,French,Medium,Lower East Side,06:00,16:00,4.4,FALSE
+31,Merwin,Japanese,Medium,Gramercy Park,09:00,22:00,4.4,TRUE
+32,Debee,Mixed,Cheap,Morningside Heights,09:00,19:00,4.9,TRUE
+33,Erskine,Korean,Cheap,Kips Bay,11:00,17:00,4.1,TRUE
+34,Orlan,Chinese,Medium,Central Harlem,06:00,18:00,2.6,FALSE
+35,Alys,American,Expensive,Inwood,09:00,20:00,3.1,TRUE
+36,Archambault,Chinese,Cheap,Inwood,09:00,16:00,4.5,TRUE
+37,Edgard,Mixed,Medium,Turtle Bay,08:00,19:00,2.0,FALSE
+38,Warren,Mixed,Cheap,Battery Park City,11:00,22:00,3.9,TRUE
+39,Mab,American,Expensive,Gramercy Park,06:00,22:00,3.3,TRUE
+40,Christyna,French,Medium,Kips Bay,09:00,21:00,2.0,FALSE
+41,Trace,African,Cheap,West Village,07:00,18:00,3.4,TRUE
+42,Aloysia,Japanese,Cheap,Morningside Heights,11:00,22:00,4.8,TRUE
+43,Jemimah,African,Medium,Washington Heights,09:00,19:00,4.1,FALSE
+44,Arliene,French,Expensive,Lower East Side,09:00,23:00,3.3,FALSE
+45,Putnem,Japanese,Expensive,Lower East Side,06:00,16:00,2.3,FALSE
+46,Tarrance,American,Expensive,Lower East Side,08:00,18:00,3.4,TRUE
+47,Allix,Chinese,Expensive,Gramercy Park,07:00,20:00,3.1,FALSE
+48,Kennett,Mixed,Cheap,Greenwich Village,11:00,18:00,3.8,FALSE
+49,Addy,Japanese,Medium,Kips Bay,06:00,22:00,4.7,TRUE
+50,Booth,American,Medium,Battery Park City,11:00,17:00,4.6,TRUE
+51,Edwin,Spanish,Expensive,West Village,09:00,18:00,2.7,TRUE
+52,Harvey,Mexican,Cheap,East Village,10:00,22:00,4.2,TRUE
+53,Dael,Mixed,Medium,Central Harlem,10:00,16:00,4.4,TRUE
+54,Nikita,Japanese,Cheap,SoHo,06:00,18:00,4.6,TRUE
+55,Turner,Korean,Cheap,Chelsea,07:00,20:00,4.4,FALSE
+56,Cordell,Japanese,Expensive,Washington Heights,06:00,17:00,4.2,TRUE
+57,Cati,French,Medium,Greenwich Village,09:00,22:00,2.1,FALSE
+58,Alexandrina,American,Cheap,Chelsea,10:00,17:00,3.2,FALSE
+59,Irvine,Mexican,Medium,Murray Hill,08:00,16:00,3.5,FALSE
+60,Thatch,American,Expensive,Washington Heights,06:00,23:00,3.9,TRUE
+61,Rolf,Korean,Medium,Lower East Side,09:00,17:00,4.5,TRUE
+62,Creight,French,Cheap,Lower East Side,07:00,20:00,2.1,TRUE
+63,Gwenette,African,Cheap,Lower East Side,10:00,22:00,2.1,TRUE
+64,Lydia,Mexican,Medium,SoHo,11:00,20:00,4.1,TRUE
+65,Kissie,Mexican,Cheap,Central Harlem,08:00,19:00,5.0,FALSE
+66,Rianon,American,Cheap,Kips Bay,09:00,19:00,3.8,TRUE
+67,Bil,Japanese,Cheap,TriBeCa,10:00,22:00,2.5,TRUE
+68,Bevvy,American,Cheap,Washington Heights,10:00,20:00,4.4,FALSE
+69,Almeria,Spanish,Cheap,Kips Bay,07:00,21:00,2.6,FALSE
+70,Ariana,Italian,Medium,Washington Heights,08:00,18:00,4.6,TRUE
+71,Tabbi,Japanese,Cheap,Midtown,10:00,22:00,2.3,FALSE
+72,Sascha,African,Expensive,Turtle Bay,08:00,23:00,2.5,FALSE
+73,Georg,Japanese,Cheap,Harlem,11:00,23:00,2.8,TRUE
+74,Ferdinand,Korean,Expensive,Harlem,08:00,21:00,2.7,FALSE
+75,Sharron,Japanese,Cheap,TriBeCa,07:00,17:00,4.4,FALSE
+76,Arlinda,Korean,Cheap,Midtown,10:00,23:00,2.1,TRUE
+77,Barbee,Spanish,Cheap,Harlem,09:00,18:00,2.2,FALSE
+78,Tammie,Mexican,Expensive,Chelsea,07:00,21:00,3.5,FALSE
+79,Joscelin,Chinese,Cheap,East Village,06:00,20:00,2.3,FALSE
+80,Gasper,Spanish,Expensive,Central Harlem,10:00,21:00,2.9,TRUE
+81,Nadeen,Chinese,Medium,Murray Hill,09:00,20:00,3.9,FALSE
+82,Marybeth,French,Cheap,Gramercy Park,09:00,18:00,4.6,FALSE
+83,Christin,French,Cheap,Upper East Side,09:00,20:00,4.0,FALSE
+84,Gary,American,Expensive,Battery Park City,11:00,16:00,2.6,FALSE
+85,Delphinia,Italian,Expensive,Murray Hill,11:00,20:00,2.6,TRUE
+86,Cullin,Mixed,Cheap,Greenwich Village,07:00,16:00,3.2,TRUE
+87,Lorant,Spanish,Expensive,Inwood,07:00,17:00,3.9,FALSE
+88,Geno,Japanese,Expensive,Battery Park City,07:00,21:00,2.2,TRUE
+89,Paulo,Spanish,Expensive,Upper West Side,10:00,21:00,3.6,FALSE
+90,Katya,Chinese,Expensive,Midtown,08:00,16:00,2.3,TRUE
+91,Ber,American,Cheap,Upper East Side,09:00,21:00,3.8,TRUE
+92,Richy,American,Cheap,Greenwich Village,08:00,17:00,2.5,FALSE
+93,Kari,Spanish,Medium,Upper West Side,08:00,20:00,2.7,TRUE
+94,Sancho,Mexican,Cheap,West Village,08:00,22:00,2.5,TRUE
+95,Denys,Korean,Cheap,Washington Heights,10:00,19:00,3.6,FALSE
+96,Sephira,Japanese,Expensive,Upper West Side,09:00,19:00,4.4,TRUE
+97,Meghann,Japanese,Medium,Lower East Side,09:00,21:00,4.6,TRUE
+98,Morey,French,Expensive,TriBeCa,06:00,16:00,3.1,TRUE
+99,Andromache,French,Expensive,Chelsea,11:00,18:00,4.7,TRUE
+100,Alastair,French,Medium,Washington Heights,08:00,19:00,2.8,TRUE
+101,Zara,Korean,Cheap,Lower East Side,10:00,21:00,2.8,FALSE
+102,Brit,Spanish,Cheap,Inwood,10:00,22:00,2.0,FALSE
+103,Kippy,Korean,Cheap,TriBeCa,06:00,21:00,4.4,FALSE
+104,Linc,Chinese,Expensive,Washington Heights,09:00,20:00,4.7,FALSE
+105,Stesha,African,Expensive,Upper East Side,09:00,22:00,4.9,TRUE
+106,Gustie,Mexican,Expensive,Chelsea,06:00,16:00,3.1,FALSE
+107,Ajay,French,Medium,East Village,07:00,22:00,3.7,FALSE
+108,Mario,Chinese,Cheap,Battery Park City,10:00,21:00,4.6,FALSE
+109,Lamond,African,Cheap,Murray Hill,10:00,21:00,2.4,FALSE
+110,Cyndie,Mexican,Expensive,Upper East Side,07:00,16:00,3.9,TRUE
+111,Reggis,Japanese,Expensive,TriBeCa,11:00,23:00,4.6,TRUE
+112,Dunn,Chinese,Cheap,Upper West Side,07:00,16:00,2.7,TRUE
+113,Morley,French,Expensive,Battery Park City,07:00,19:00,2.2,FALSE
+114,Lovell,Mexican,Expensive,Upper West Side,09:00,17:00,3.2,FALSE
+115,Tonie,Mixed,Expensive,TriBeCa,08:00,21:00,3.5,FALSE
+116,Antoinette,Italian,Cheap,Inwood,11:00,16:00,4.4,TRUE
+117,Benyamin,Mexican,Cheap,Midtown,08:00,21:00,4.9,TRUE
+118,Fremont,African,Expensive,Central Harlem,07:00,18:00,3.8,FALSE
+119,Marijo,Chinese,Cheap,Chelsea,10:00,17:00,4.8,FALSE
+120,Dacey,Japanese,Cheap,Chelsea,09:00,23:00,2.5,FALSE
+121,Mattie,Mixed,Medium,Greenwich Village,09:00,17:00,3.2,FALSE
+122,Johnathon,Japanese,Cheap,Battery Park City,09:00,17:00,4.9,TRUE
+123,Raddie,American,Expensive,East Village,07:00,16:00,2.3,TRUE
+124,Rodie,French,Medium,Turtle Bay,08:00,20:00,2.4,TRUE
+125,Clemmy,American,Expensive,Washington Heights,07:00,19:00,4.1,TRUE
+126,Jasmin,Chinese,Medium,Battery Park City,11:00,23:00,3.4,FALSE
+127,Fionnula,Japanese,Expensive,Gramercy Park,08:00,19:00,4.9,FALSE
+128,Tarrah,African,Medium,Gramercy Park,11:00,18:00,3.3,FALSE
+129,Shirlene,Mexican,Cheap,Midtown,06:00,16:00,3.7,FALSE
+130,Farrel,Italian,Cheap,West Village,06:00,23:00,2.0,FALSE
+131,Sisely,American,Cheap,Upper West Side,07:00,22:00,3.6,FALSE
+132,Natasha,American,Medium,Battery Park City,09:00,20:00,2.3,FALSE
+133,Perri,French,Medium,Central Harlem,11:00,17:00,2.5,TRUE
+134,Claus,Mixed,Medium,Kips Bay,11:00,17:00,4.3,TRUE
+135,Dwayne,Japanese,Expensive,Gramercy Park,07:00,23:00,3.6,FALSE
+136,Marne,Mixed,Medium,Upper West Side,11:00,23:00,2.8,TRUE
+137,Vite,Spanish,Expensive,Greenwich Village,06:00,23:00,2.1,TRUE
+138,Edward,American,Expensive,Kips Bay,09:00,18:00,4.5,TRUE
+139,Bret,Chinese,Medium,Battery Park City,10:00,17:00,2.6,FALSE
+140,Stan,French,Expensive,East Village,10:00,19:00,4.9,FALSE
+141,Heath,Japanese,Medium,Gramercy Park,09:00,20:00,3.5,TRUE
+142,Moshe,French,Cheap,East Village,11:00,19:00,4.3,FALSE
+143,Stanton,Chinese,Medium,Kips Bay,06:00,17:00,2.9,TRUE
+144,Berrie,Italian,Cheap,Washington Heights,11:00,19:00,2.4,FALSE
+145,Harlene,Chinese,Expensive,Morningside Heights,06:00,23:00,4.4,TRUE
+146,Kirk,French,Expensive,TriBeCa,06:00,18:00,3.8,FALSE
+147,Pet,Mexican,Expensive,Harlem,08:00,22:00,3.9,TRUE
+148,Bill,African,Expensive,Harlem,08:00,23:00,2.6,TRUE
+149,Yettie,Korean,Expensive,Chelsea,08:00,20:00,2.0,FALSE
+150,Marleah,Spanish,Cheap,Gramercy Park,06:00,22:00,3.2,TRUE
+151,Gertrudis,Korean,Medium,Washington Heights,09:00,19:00,4.7,FALSE
+152,Elfreda,French,Medium,Greenwich Village,10:00,22:00,4.1,TRUE
+153,Tobye,African,Cheap,SoHo,08:00,22:00,4.7,FALSE
+154,Rob,Mexican,Cheap,Gramercy Park,10:00,16:00,3.1,TRUE
+155,Fidelia,Italian,Cheap,Upper West Side,10:00,19:00,4.4,FALSE
+156,Raquela,Chinese,Medium,Upper East Side,11:00,16:00,3.9,TRUE
+157,Celina,Korean,Medium,Central Harlem,08:00,22:00,2.7,TRUE
+158,Orson,French,Cheap,SoHo,07:00,23:00,2.9,FALSE
+159,Adolphe,Chinese,Medium,Lower East Side,08:00,23:00,2.8,TRUE
+160,Oneida,French,Medium,Murray Hill,06:00,17:00,4.6,TRUE
+161,Marlin,Spanish,Cheap,Turtle Bay,11:00,16:00,4.2,FALSE
+162,Tessy,African,Cheap,Washington Heights,10:00,23:00,2.7,TRUE
+163,Drusi,Korean,Cheap,Murray Hill,10:00,23:00,4.7,TRUE
+164,Silvain,African,Medium,Lower East Side,09:00,19:00,2.8,FALSE
+165,Meredith,Mexican,Medium,Midtown,07:00,17:00,4.1,FALSE
+166,Sean,Japanese,Medium,Central Harlem,11:00,19:00,4.9,TRUE
+167,Susana,African,Cheap,SoHo,11:00,19:00,2.0,TRUE
+168,Vernen,Mixed,Expensive,Midtown,06:00,23:00,3.9,FALSE
+169,Tremayne,Spanish,Cheap,Upper West Side,09:00,22:00,4.5,FALSE
+170,Siward,Spanish,Medium,Upper East Side,08:00,22:00,3.8,TRUE
+171,Jefferey,Japanese,Cheap,Greenwich Village,07:00,19:00,2.5,FALSE
+172,Clarie,American,Cheap,Battery Park City,06:00,20:00,3.7,TRUE
+173,Cal,American,Cheap,Upper East Side,07:00,21:00,4.4,TRUE
+174,Guenna,African,Cheap,Gramercy Park,06:00,17:00,3.4,TRUE
+175,Roland,Korean,Medium,Harlem,08:00,23:00,4.0,FALSE
+176,Muhammad,Spanish,Medium,Kips Bay,06:00,20:00,3.1,TRUE
+177,Janeczka,Korean,Medium,Chelsea,06:00,22:00,3.3,TRUE
+178,Anderson,Japanese,Expensive,Lower East Side,11:00,17:00,3.1,TRUE
+179,Francis,Italian,Medium,Washington Heights,08:00,19:00,3.2,FALSE
+180,Augie,Japanese,Cheap,Washington Heights,08:00,23:00,2.7,FALSE
+181,Janka,Korean,Medium,Greenwich Village,08:00,18:00,2.9,TRUE
+182,Buffy,French,Expensive,East Village,06:00,20:00,3.4,TRUE
+183,Yolanda,African,Cheap,Gramercy Park,08:00,22:00,2.8,TRUE
+184,Adolpho,Japanese,Expensive,Chelsea,06:00,21:00,3.3,TRUE
+185,Weston,Chinese,Expensive,Murray Hill,10:00,22:00,3.3,TRUE
+186,Matthaeus,French,Expensive,West Village,11:00,22:00,3.4,FALSE
+187,Colly,Italian,Expensive,Battery Park City,09:00,21:00,3.3,FALSE
+188,Berton,Chinese,Cheap,Upper East Side,11:00,22:00,4.7,FALSE
+189,Taddeusz,Japanese,Expensive,Upper West Side,07:00,23:00,3.9,FALSE
+190,Othella,Korean,Cheap,Upper West Side,06:00,23:00,4.6,FALSE
+191,Richmound,Italian,Expensive,Central Harlem,10:00,23:00,2.6,FALSE
+192,Judith,Italian,Medium,East Village,09:00,17:00,4.2,TRUE
+193,Lonnard,Chinese,Expensive,Gramercy Park,10:00,17:00,2.2,FALSE
+194,Gav,Chinese,Expensive,TriBeCa,11:00,21:00,4.8,FALSE
+195,Florance,Mixed,Expensive,Murray Hill,11:00,18:00,4.8,FALSE
+196,Benjamen,African,Expensive,Midtown,10:00,20:00,4.8,TRUE
+197,Giulio,Chinese,Medium,Central Harlem,10:00,19:00,4.3,TRUE
+198,Winifred,Italian,Expensive,West Village,07:00,20:00,4.6,TRUE
+199,Frederico,Mexican,Medium,Morningside Heights,08:00,19:00,3.4,FALSE
+200,Stafani,French,Cheap,Kips Bay,07:00,19:00,2.2,FALSE
+201,Wakefield,Italian,Cheap,Morningside Heights,07:00,22:00,4.1,FALSE
+202,Marjory,Italian,Expensive,Inwood,06:00,18:00,3.1,TRUE
+203,Malachi,Italian,Expensive,Gramercy Park,10:00,16:00,3.5,TRUE
+204,Kitty,Chinese,Cheap,Lower East Side,06:00,17:00,4.9,FALSE
+205,Corny,Japanese,Medium,East Village,07:00,20:00,4.3,TRUE
+206,Cale,African,Expensive,Greenwich Village,10:00,17:00,2.3,TRUE
+207,Ina,Chinese,Cheap,Inwood,10:00,23:00,4.7,TRUE
+208,Hallsy,Italian,Expensive,SoHo,06:00,21:00,3.5,FALSE
+209,Sterling,Spanish,Cheap,Chelsea,07:00,21:00,2.5,FALSE
+210,Liv,Spanish,Medium,Murray Hill,06:00,23:00,4.0,FALSE
+211,Sanders,Mexican,Medium,Gramercy Park,09:00,21:00,2.8,TRUE
+212,Willem,French,Cheap,Harlem,09:00,23:00,4.7,FALSE
+213,Shepherd,French,Medium,Turtle Bay,11:00,23:00,2.4,TRUE
+214,Garnet,Korean,Expensive,Greenwich Village,11:00,22:00,3.8,TRUE
+215,Sharity,African,Cheap,Chelsea,08:00,18:00,2.2,TRUE
+216,Ealasaid,Italian,Medium,Gramercy Park,10:00,16:00,4.7,FALSE
+217,Venita,Mexican,Medium,Turtle Bay,08:00,20:00,2.6,TRUE
+218,Shanta,Chinese,Cheap,Morningside Heights,06:00,22:00,2.8,TRUE
+219,Odilia,Japanese,Cheap,Inwood,10:00,17:00,2.2,FALSE
+220,Roldan,Mexican,Medium,Turtle Bay,11:00,22:00,4.9,TRUE
+221,Yoshi,Mixed,Expensive,Upper East Side,10:00,22:00,3.6,TRUE
+222,Goldi,Japanese,Medium,East Village,08:00,23:00,5.0,TRUE
+223,Vonny,African,Cheap,East Village,08:00,18:00,2.1,TRUE
+224,Clint,Korean,Expensive,West Village,09:00,20:00,2.8,TRUE
+225,Mitchel,Japanese,Cheap,TriBeCa,09:00,17:00,2.1,FALSE
+226,Janella,Chinese,Cheap,Kips Bay,09:00,22:00,2.8,TRUE
+227,Kalvin,Mixed,Expensive,Central Harlem,08:00,21:00,2.1,TRUE
+228,Charlot,Italian,Expensive,Harlem,09:00,23:00,4.5,TRUE
+229,Gabie,French,Cheap,Upper East Side,08:00,16:00,3.1,FALSE
+230,Hunter,Korean,Cheap,Washington Heights,09:00,18:00,3.9,FALSE
+231,Teddie,Mexican,Medium,Upper West Side,06:00,19:00,4.6,TRUE
+232,Abrahan,American,Cheap,Upper West Side,09:00,17:00,4.9,FALSE
+233,Sharia,African,Medium,Battery Park City,11:00,21:00,3.7,FALSE
+234,Terrel,Italian,Expensive,TriBeCa,08:00,19:00,4.2,FALSE
+235,Daniel,French,Expensive,Harlem,10:00,20:00,4.0,FALSE
+236,Sandra,African,Medium,Gramercy Park,10:00,20:00,3.3,FALSE
+237,Wilow,African,Medium,East Village,07:00,16:00,3.9,FALSE
+238,Ephrayim,American,Medium,West Village,11:00,18:00,4.0,TRUE
+239,Daile,French,Expensive,Chelsea,10:00,22:00,5.0,FALSE
+240,Gilburt,American,Cheap,Chelsea,10:00,18:00,3.9,TRUE
+241,Norbert,African,Expensive,West Village,10:00,18:00,4.6,FALSE
+242,Aguie,Italian,Expensive,Battery Park City,06:00,21:00,4.1,FALSE
+243,Mabel,Mixed,Expensive,Turtle Bay,09:00,20:00,3.0,FALSE
+244,Reeta,French,Expensive,Central Harlem,08:00,18:00,2.3,FALSE
+245,Sheffy,American,Cheap,Turtle Bay,08:00,17:00,4.6,TRUE
+246,Currie,Italian,Expensive,Washington Heights,09:00,23:00,3.3,FALSE
+247,Wilton,Mixed,Cheap,Gramercy Park,08:00,17:00,2.8,TRUE
+248,Ermin,Mixed,Medium,TriBeCa,06:00,20:00,3.6,TRUE
+249,Kendre,Mixed,Cheap,Inwood,08:00,20:00,2.9,FALSE
+250,Paula,Mixed,Medium,TriBeCa,10:00,20:00,3.9,FALSE
+251,Theresa,Mexican,Medium,Turtle Bay,10:00,22:00,2.4,FALSE
+252,Svend,Mexican,Cheap,Washington Heights,08:00,18:00,2.9,FALSE
+253,Coletta,Japanese,Cheap,East Village,08:00,20:00,4.8,FALSE
+254,Renell,Japanese,Medium,Turtle Bay,07:00,21:00,3.6,FALSE
+255,Fields,Spanish,Cheap,Gramercy Park,09:00,21:00,3.8,TRUE
+256,Lefty,Japanese,Expensive,TriBeCa,08:00,17:00,2.9,TRUE
+257,Sibby,Italian,Expensive,Chelsea,11:00,23:00,2.8,FALSE
+258,Ardath,French,Medium,SoHo,07:00,21:00,2.1,FALSE
+259,Ericka,Mixed,Cheap,Harlem,08:00,21:00,3.4,TRUE
+260,Russ,African,Medium,Greenwich Village,10:00,21:00,2.9,FALSE
+261,Phillis,Korean,Medium,Chelsea,06:00,19:00,3.8,FALSE
+262,Whitaker,Korean,Expensive,Upper West Side,11:00,23:00,2.4,TRUE
+263,Sadella,Mixed,Medium,Lower East Side,08:00,22:00,4.1,FALSE
+264,Kordula,American,Expensive,Upper East Side,08:00,22:00,4.7,FALSE
+265,Adriana,African,Cheap,Morningside Heights,07:00,18:00,3.0,FALSE
+266,Pierre,French,Expensive,East Village,07:00,22:00,2.8,TRUE
+267,Darb,American,Expensive,SoHo,09:00,16:00,2.3,TRUE
+268,Xenos,Italian,Medium,Battery Park City,09:00,16:00,2.8,FALSE
+269,Michelina,African,Medium,East Village,10:00,22:00,2.8,TRUE
+270,Althea,Japanese,Expensive,West Village,08:00,22:00,2.4,FALSE
+271,Sherm,Italian,Medium,East Village,09:00,19:00,2.7,FALSE
+272,Maggi,Japanese,Medium,Upper East Side,09:00,17:00,3.2,FALSE
+273,Amy,Mixed,Cheap,Midtown,11:00,18:00,2.6,TRUE
+274,Andrus,Korean,Cheap,SoHo,07:00,18:00,2.4,FALSE
+275,Golda,French,Expensive,Lower East Side,06:00,21:00,2.0,TRUE
+276,Katleen,Mixed,Medium,Upper West Side,09:00,20:00,4.8,TRUE
+277,Jocelyne,Mexican,Medium,Central Harlem,07:00,17:00,2.7,FALSE
+278,Theresina,Korean,Medium,Midtown,09:00,19:00,2.4,TRUE
+279,Fair,Mexican,Medium,Upper East Side,06:00,23:00,4.9,TRUE
+280,Ettore,American,Medium,Turtle Bay,11:00,20:00,4.6,FALSE
+281,Farlee,Mexican,Expensive,Lower East Side,11:00,21:00,4.1,TRUE
+282,Isac,Korean,Expensive,TriBeCa,10:00,20:00,3.8,TRUE
+283,Durward,French,Expensive,Battery Park City,09:00,22:00,3.3,TRUE
+284,Darill,Mexican,Cheap,Chelsea,06:00,18:00,2.1,TRUE
+285,Stanford,Italian,Medium,Gramercy Park,07:00,22:00,3.0,FALSE
+286,Jerrold,American,Expensive,Murray Hill,09:00,19:00,2.9,FALSE
+287,Phoebe,African,Expensive,Gramercy Park,11:00,20:00,4.4,TRUE
+288,Ric,Mixed,Expensive,Murray Hill,11:00,20:00,2.7,FALSE
+289,Rory,African,Medium,Chelsea,06:00,23:00,2.8,TRUE
+290,Debbie,Italian,Expensive,Central Harlem,06:00,19:00,4.6,FALSE
+291,Star,American,Expensive,Kips Bay,06:00,18:00,3.6,FALSE
+292,Enrico,Korean,Medium,East Village,11:00,17:00,3.5,TRUE
+293,Hillard,Mixed,Cheap,East Village,07:00,19:00,3.2,FALSE
+294,Patty,Japanese,Expensive,Kips Bay,11:00,22:00,4.7,FALSE
+295,Tailor,Mixed,Cheap,Turtle Bay,10:00,16:00,2.5,FALSE
+296,Blanche,Chinese,Medium,SoHo,09:00,18:00,3.0,FALSE
+297,Jarrod,Italian,Cheap,Kips Bay,06:00,22:00,3.1,FALSE
+298,Cordelia,Korean,Medium,Harlem,06:00,16:00,4.5,FALSE
+299,Tara,Korean,Cheap,Inwood,09:00,21:00,4.4,TRUE
+300,Bing,Mexican,Expensive,Morningside Heights,08:00,19:00,3.7,FALSE
+301,Sasha,Italian,Expensive,Gramercy Park,08:00,16:00,2.8,TRUE
+302,Zandra,Italian,Expensive,Midtown,09:00,18:00,2.2,TRUE
+303,Tymon,Korean,Medium,Kips Bay,06:00,16:00,4.3,TRUE
+304,Noella,Mexican,Cheap,Midtown,06:00,17:00,2.0,TRUE
+305,Donovan,African,Expensive,Inwood,08:00,22:00,4.1,FALSE
+306,Gabriel,African,Medium,Murray Hill,06:00,21:00,3.4,TRUE
+307,Callida,Spanish,Expensive,Upper West Side,09:00,23:00,4.9,TRUE
+308,Baxter,African,Medium,Greenwich Village,08:00,17:00,2.6,FALSE
+309,Vida,African,Expensive,Lower East Side,08:00,16:00,3.0,TRUE
+310,Killie,Spanish,Medium,Harlem,07:00,17:00,3.6,TRUE
+311,Guilbert,Japanese,Medium,Central Harlem,09:00,16:00,3.9,FALSE
+312,Gib,African,Medium,Gramercy Park,08:00,21:00,3.1,TRUE
+313,Ana,Italian,Cheap,SoHo,07:00,23:00,3.9,FALSE
+314,Pierre,Spanish,Medium,Battery Park City,06:00,23:00,3.1,TRUE
+315,Joane,American,Expensive,Murray Hill,06:00,19:00,3.4,FALSE
+316,Joanna,African,Medium,Washington Heights,09:00,17:00,2.9,TRUE
+317,Lynda,Japanese,Medium,Inwood,08:00,16:00,4.9,FALSE
+318,Sigfrid,Korean,Medium,Central Harlem,09:00,22:00,2.3,FALSE
+319,Zonda,Japanese,Cheap,Turtle Bay,06:00,19:00,3.6,TRUE
+320,Ricardo,Korean,Medium,Morningside Heights,06:00,16:00,4.5,FALSE
+321,Nancie,Korean,Expensive,Washington Heights,10:00,18:00,4.0,FALSE
+322,Honor,African,Medium,Lower East Side,07:00,23:00,3.2,FALSE
+323,Abbot,Spanish,Expensive,Harlem,06:00,20:00,4.2,FALSE
+324,Jeni,African,Medium,Harlem,09:00,17:00,4.2,TRUE
+325,Paola,Korean,Cheap,Washington Heights,11:00,20:00,3.9,FALSE
+326,Cazzie,Italian,Medium,Murray Hill,10:00,20:00,3.9,TRUE
+327,Shanta,French,Medium,Washington Heights,06:00,21:00,3.1,FALSE
+328,Aldric,Italian,Expensive,Murray Hill,11:00,19:00,4.4,TRUE
+329,Carlen,Mixed,Cheap,East Village,08:00,18:00,2.4,FALSE
+330,Leese,Chinese,Cheap,Inwood,09:00,20:00,4.3,TRUE
+331,Cherry,African,Expensive,TriBeCa,06:00,18:00,2.9,TRUE
+332,Nicolas,Japanese,Cheap,Murray Hill,11:00,23:00,3.8,TRUE
+333,Rolland,Korean,Cheap,Murray Hill,06:00,23:00,2.9,FALSE
+334,Austin,African,Medium,Midtown,10:00,20:00,3.6,TRUE
+335,Tremain,Spanish,Expensive,Harlem,06:00,21:00,4.0,TRUE
+336,Lyndsie,Mixed,Expensive,East Village,06:00,17:00,3.2,TRUE
+337,Wittie,Italian,Expensive,TriBeCa,10:00,23:00,2.5,FALSE
+338,Gweneth,Italian,Cheap,SoHo,06:00,21:00,2.9,TRUE
+339,Amelina,Mixed,Cheap,SoHo,10:00,17:00,2.6,TRUE
+340,Moria,Japanese,Cheap,Washington Heights,07:00,17:00,2.4,FALSE
+341,North,American,Expensive,Inwood,10:00,22:00,4.6,FALSE
+342,Manda,French,Expensive,Chelsea,08:00,19:00,2.7,FALSE
+343,Silvio,Spanish,Cheap,Murray Hill,07:00,21:00,3.6,FALSE
+344,Parsifal,American,Medium,Gramercy Park,08:00,17:00,3.5,TRUE
+345,Blair,Chinese,Expensive,Lower East Side,07:00,17:00,3.2,TRUE
+346,Husein,Korean,Cheap,Battery Park City,06:00,21:00,3.5,FALSE
+347,Debbi,French,Cheap,Inwood,07:00,19:00,4.5,TRUE
+348,Shermy,Japanese,Cheap,East Village,09:00,22:00,4.2,TRUE
+349,Jeanine,Italian,Medium,Murray Hill,10:00,19:00,3.5,FALSE
+350,Allistir,Spanish,Cheap,Morningside Heights,06:00,20:00,3.4,FALSE
+351,Mozelle,French,Cheap,Upper East Side,11:00,18:00,3.5,FALSE
+352,Pamelina,Mexican,Medium,Kips Bay,10:00,20:00,2.2,FALSE
+353,Ernest,Italian,Expensive,West Village,08:00,23:00,4.1,FALSE
+354,Janessa,Japanese,Medium,Upper West Side,10:00,20:00,4.7,TRUE
+355,Warren,Spanish,Medium,Morningside Heights,06:00,17:00,2.0,FALSE
+356,Ashton,Mixed,Cheap,Harlem,09:00,23:00,2.6,TRUE
+357,Johnnie,Mexican,Medium,Gramercy Park,07:00,18:00,3.0,FALSE
+358,Yale,Chinese,Cheap,Morningside Heights,10:00,21:00,3.4,FALSE
+359,Reidar,Spanish,Medium,East Village,06:00,17:00,3.8,FALSE
+360,Carmencita,Korean,Medium,Midtown,08:00,22:00,3.9,TRUE
+361,Jacklin,Italian,Medium,Battery Park City,08:00,18:00,2.3,FALSE
+362,Terra,American,Cheap,Battery Park City,08:00,17:00,4.4,TRUE
+363,Fanni,American,Expensive,Upper West Side,11:00,21:00,3.1,FALSE
+364,Arnaldo,French,Cheap,Upper East Side,10:00,19:00,3.4,TRUE
+365,Marti,French,Cheap,Morningside Heights,10:00,21:00,3.1,FALSE
+366,Alphonso,Japanese,Expensive,Turtle Bay,06:00,23:00,2.7,TRUE
+367,Georgy,Italian,Expensive,West Village,09:00,20:00,4.2,TRUE
+368,Tiffi,French,Cheap,East Village,06:00,21:00,3.5,TRUE
+369,Yule,Chinese,Medium,Morningside Heights,10:00,18:00,2.2,FALSE
+370,Moyra,Chinese,Expensive,Inwood,07:00,19:00,4.2,TRUE
+371,Emmanuel,African,Expensive,Chelsea,09:00,17:00,2.5,FALSE
+372,Gert,Mixed,Cheap,Inwood,10:00,23:00,4.5,FALSE
+373,Sella,American,Expensive,Upper West Side,09:00,20:00,2.2,TRUE
+374,Martelle,Mixed,Cheap,Murray Hill,11:00,23:00,2.7,FALSE
+375,Burton,Italian,Cheap,Midtown,06:00,20:00,2.9,FALSE
+376,Micky,Italian,Cheap,Harlem,11:00,22:00,2.0,FALSE
+377,Imojean,Mexican,Expensive,East Village,10:00,16:00,3.3,FALSE
+378,Augustin,Japanese,Expensive,Turtle Bay,10:00,19:00,2.3,FALSE
+379,Susann,African,Expensive,Gramercy Park,10:00,23:00,3.4,FALSE
+380,Cami,Japanese,Cheap,Battery Park City,09:00,23:00,4.7,FALSE
+381,Amabel,Mexican,Cheap,Gramercy Park,11:00,20:00,3.9,TRUE
+382,Arri,African,Expensive,Lower East Side,06:00,18:00,4.5,FALSE
+383,Maribelle,French,Expensive,Lower East Side,09:00,19:00,4.6,TRUE
+384,Regan,Chinese,Medium,Midtown,06:00,22:00,4.5,FALSE
+385,Rudolfo,Korean,Medium,Central Harlem,07:00,21:00,4.4,FALSE
+386,Robyn,Italian,Medium,Upper West Side,10:00,18:00,2.4,TRUE
+387,Lalo,Mexican,Expensive,Greenwich Village,08:00,17:00,4.9,FALSE
+388,Mar,French,Expensive,Inwood,08:00,19:00,4.8,FALSE
+389,Hestia,Mixed,Expensive,Harlem,08:00,21:00,2.4,TRUE
+390,Ardisj,American,Expensive,Morningside Heights,06:00,17:00,4.6,TRUE
+391,Shell,Chinese,Medium,East Village,06:00,23:00,4.2,FALSE
+392,Blanche,African,Expensive,Upper East Side,09:00,18:00,4.3,TRUE
+393,Mariejeanne,African,Cheap,Murray Hill,09:00,16:00,3.8,FALSE
+394,Philomena,Mixed,Expensive,Murray Hill,10:00,20:00,3.8,FALSE
+395,Gilemette,Mixed,Expensive,Harlem,11:00,23:00,3.9,FALSE
+396,Dorothy,French,Expensive,Upper East Side,07:00,17:00,3.6,TRUE
+397,Gerri,Mexican,Medium,Greenwich Village,09:00,18:00,2.3,TRUE
+398,Arne,Mexican,Expensive,Greenwich Village,11:00,20:00,2.1,TRUE
+399,Lynn,Chinese,Expensive,Murray Hill,11:00,20:00,4.4,TRUE
+400,Fionna,Korean,Expensive,SoHo,07:00,17:00,3.5,TRUE
+401,Dan,Italian,Cheap,TriBeCa,09:00,21:00,2.4,FALSE
+402,Jacklin,Chinese,Medium,Central Harlem,08:00,16:00,3.1,FALSE
+403,Camella,Chinese,Cheap,Harlem,08:00,17:00,4.5,FALSE
+404,Feliza,Korean,Expensive,Central Harlem,11:00,23:00,2.7,FALSE
+405,Ivonne,Spanish,Medium,Upper East Side,10:00,21:00,4.8,FALSE
+406,Dael,Mixed,Medium,Chelsea,07:00,21:00,2.3,FALSE
+407,Bertina,Mixed,Cheap,Inwood,10:00,21:00,2.9,TRUE
+408,Grenville,African,Expensive,Battery Park City,10:00,18:00,4.4,TRUE
+409,Heath,Chinese,Expensive,Turtle Bay,11:00,21:00,5.0,FALSE
+410,Erick,French,Medium,Gramercy Park,06:00,21:00,4.9,FALSE
+411,Mercy,Mixed,Cheap,Kips Bay,09:00,20:00,2.7,TRUE
+412,Odey,Korean,Expensive,Murray Hill,10:00,22:00,4.1,FALSE
+413,Pacorro,Mixed,Expensive,Harlem,09:00,22:00,4.4,FALSE
+414,Dory,Spanish,Expensive,Midtown,08:00,20:00,2.3,TRUE
+415,Camel,Spanish,Medium,Greenwich Village,06:00,17:00,2.4,FALSE
+416,Wallis,Italian,Expensive,TriBeCa,07:00,22:00,3.4,TRUE
+417,Claudio,Korean,Cheap,SoHo,09:00,22:00,2.3,TRUE
+418,Bendicty,Korean,Expensive,Upper West Side,08:00,16:00,4.9,TRUE
+419,Clerkclaude,Japanese,Expensive,Upper West Side,07:00,17:00,4.7,FALSE
+420,Lotti,Chinese,Cheap,Lower East Side,07:00,20:00,3.6,FALSE
+421,Jamima,Chinese,Expensive,Turtle Bay,10:00,21:00,3.9,TRUE
+422,Randene,Mexican,Expensive,Inwood,09:00,20:00,4.6,FALSE
+423,Mohandas,Japanese,Cheap,Kips Bay,09:00,22:00,3.2,TRUE
+424,Sabina,French,Cheap,Central Harlem,10:00,16:00,3.9,TRUE
+425,Layney,Chinese,Cheap,Turtle Bay,10:00,16:00,4.5,TRUE
+426,Kip,Mexican,Cheap,Chelsea,06:00,16:00,4.4,FALSE
+427,Windham,French,Expensive,Harlem,07:00,20:00,3.0,TRUE
+428,Fritz,French,Medium,Inwood,10:00,22:00,2.5,TRUE
+429,Herby,Mixed,Expensive,Chelsea,09:00,20:00,3.2,TRUE
+430,Allyson,Chinese,Cheap,Upper East Side,07:00,17:00,2.8,TRUE
+431,Devinne,Mexican,Expensive,Gramercy Park,11:00,17:00,3.5,FALSE
+432,Alanson,Mixed,Expensive,Murray Hill,06:00,20:00,2.3,TRUE
+433,Quintina,Italian,Expensive,Battery Park City,06:00,22:00,3.4,TRUE
+434,Kathryne,American,Cheap,Chelsea,11:00,23:00,4.0,TRUE
+435,Alexandro,American,Expensive,Midtown,09:00,17:00,2.7,FALSE
+436,Ardelle,Italian,Cheap,TriBeCa,10:00,23:00,4.1,TRUE
+437,Evangelia,French,Medium,Harlem,08:00,23:00,2.2,TRUE
+438,Tabatha,African,Cheap,Kips Bay,10:00,16:00,2.5,FALSE
+439,Florrie,Japanese,Cheap,Upper West Side,08:00,19:00,3.3,FALSE
+440,Jaquelin,Mixed,Cheap,East Village,11:00,19:00,3.3,FALSE
+441,Jeddy,African,Cheap,Turtle Bay,08:00,19:00,3.4,TRUE
+442,Celesta,French,Medium,Inwood,11:00,23:00,3.8,TRUE
+443,Filberte,Italian,Medium,Harlem,06:00,17:00,4.2,FALSE
+444,Burt,Japanese,Cheap,Washington Heights,09:00,21:00,2.5,FALSE
+445,Donna,Mixed,Expensive,West Village,08:00,23:00,3.2,FALSE
+446,Elston,African,Cheap,Midtown,07:00,16:00,3.5,FALSE
+447,Jenine,Korean,Expensive,Central Harlem,11:00,19:00,5.0,FALSE
+448,Kellsie,Korean,Medium,Upper West Side,06:00,21:00,2.6,TRUE
+449,Nelli,Chinese,Expensive,Inwood,07:00,18:00,4.1,TRUE
+450,Jena,Mexican,Medium,Morningside Heights,08:00,20:00,2.6,TRUE
+451,Rossie,French,Expensive,East Village,11:00,23:00,4.2,FALSE
+452,Olenka,Japanese,Medium,Murray Hill,10:00,17:00,3.8,FALSE
+453,Wayne,American,Cheap,Harlem,07:00,21:00,4.6,TRUE
+454,Shawn,American,Medium,Lower East Side,10:00,18:00,4.6,FALSE
+455,Ravid,Mixed,Expensive,Central Harlem,07:00,23:00,3.5,FALSE
+456,June,French,Expensive,Turtle Bay,10:00,21:00,4.6,TRUE
+457,Edgard,French,Medium,Kips Bay,10:00,23:00,2.6,FALSE
+458,Frasco,Mixed,Medium,Gramercy Park,06:00,18:00,2.1,TRUE
+459,Woodman,Korean,Expensive,Battery Park City,11:00,22:00,3.3,TRUE
+460,Jorrie,American,Expensive,Harlem,11:00,18:00,2.9,FALSE
+461,Alvin,Japanese,Cheap,West Village,06:00,20:00,4.6,FALSE
+462,Karlyn,Spanish,Expensive,West Village,10:00,18:00,3.4,FALSE
+463,Donnie,African,Medium,Greenwich Village,10:00,18:00,3.3,TRUE
+464,Olivier,Japanese,Cheap,Turtle Bay,09:00,23:00,3.1,FALSE
+465,Hayes,Italian,Medium,Greenwich Village,07:00,17:00,4.0,TRUE
+466,Dukie,African,Expensive,TriBeCa,10:00,23:00,3.9,TRUE
+467,Ruprecht,Korean,Medium,Morningside Heights,11:00,23:00,3.7,TRUE
+468,Damita,Italian,Expensive,Central Harlem,06:00,17:00,4.7,FALSE
+469,Broderic,Japanese,Medium,Washington Heights,11:00,21:00,4.8,TRUE
+470,Hunfredo,African,Cheap,Inwood,10:00,22:00,4.0,TRUE
+471,Skyler,American,Expensive,Central Harlem,08:00,16:00,4.0,TRUE
+472,Sandye,Mexican,Medium,Upper West Side,11:00,22:00,2.8,TRUE
+473,Dion,Mexican,Expensive,Lower East Side,10:00,22:00,4.9,FALSE
+474,Katie,Japanese,Medium,SoHo,11:00,23:00,2.3,FALSE
+475,Danella,African,Cheap,Murray Hill,06:00,19:00,4.0,FALSE
+476,Miguelita,Chinese,Cheap,Lower East Side,07:00,23:00,2.7,TRUE
+477,Selene,Spanish,Cheap,Turtle Bay,08:00,23:00,4.3,TRUE
+478,Devon,Mexican,Medium,Gramercy Park,09:00,23:00,2.8,FALSE
+479,Slade,French,Cheap,Turtle Bay,08:00,16:00,4.6,TRUE
+480,Etienne,Japanese,Expensive,Murray Hill,10:00,20:00,2.1,TRUE
+481,Abdul,French,Cheap,Greenwich Village,09:00,18:00,4.8,FALSE
+482,Colet,French,Medium,Battery Park City,09:00,18:00,2.6,TRUE
+483,Costanza,French,Medium,Midtown,09:00,23:00,4.2,FALSE
+484,Bronson,Japanese,Expensive,Chelsea,06:00,18:00,3.8,FALSE
+485,Corrie,Korean,Cheap,Murray Hill,07:00,20:00,4.9,FALSE
+486,Jemmy,Korean,Cheap,Morningside Heights,07:00,22:00,2.3,TRUE
+487,Ladonna,Chinese,Expensive,West Village,08:00,19:00,3.0,FALSE
+488,Vernon,Mexican,Expensive,Upper West Side,07:00,19:00,2.9,TRUE
+489,Stillmann,African,Medium,Upper East Side,09:00,16:00,4.1,TRUE
+490,Christi,Mixed,Expensive,East Village,10:00,21:00,2.6,FALSE
+491,Angelo,Spanish,Cheap,Midtown,07:00,23:00,4.9,FALSE
+492,Aleda,Italian,Cheap,Turtle Bay,09:00,21:00,2.6,TRUE
+493,Viole,American,Medium,Upper West Side,11:00,21:00,4.1,TRUE
+494,Worthington,American,Cheap,Midtown,06:00,16:00,2.5,TRUE
+495,Kristoffer,Italian,Cheap,Central Harlem,10:00,22:00,4.8,TRUE
+496,Annmarie,Mixed,Medium,Greenwich Village,08:00,21:00,4.4,FALSE
+497,Flem,Korean,Medium,Central Harlem,08:00,20:00,4.0,FALSE
+498,Teddy,African,Medium,Upper West Side,10:00,20:00,3.2,FALSE
+499,Nikos,Italian,Medium,West Village,06:00,17:00,4.1,FALSE
+500,Camile,Japanese,Cheap,TriBeCa,11:00,23:00,3.9,TRUE
+501,Diandra,American,Cheap,Turtle Bay,09:00,20:00,4.6,FALSE
+502,Merrill,Italian,Medium,West Village,07:00,19:00,4.1,TRUE
+503,Donica,African,Medium,Turtle Bay,08:00,22:00,4.7,TRUE
+504,Tasha,Chinese,Medium,TriBeCa,11:00,17:00,4.9,TRUE
+505,Whitney,Spanish,Cheap,Lower East Side,07:00,22:00,4.7,TRUE
+506,Minna,Chinese,Medium,Upper West Side,11:00,20:00,2.4,TRUE
+507,Wyatan,Korean,Medium,Chelsea,07:00,19:00,3.1,TRUE
+508,Orren,Italian,Medium,Gramercy Park,08:00,21:00,3.4,TRUE
+509,Dane,Mexican,Medium,TriBeCa,09:00,21:00,2.4,TRUE
+510,Lydon,Italian,Expensive,Morningside Heights,07:00,19:00,4.8,FALSE
+511,Ogden,Italian,Expensive,West Village,06:00,22:00,3.8,FALSE
+512,Whitman,Japanese,Expensive,SoHo,09:00,21:00,2.9,TRUE
+513,Griselda,Italian,Expensive,Kips Bay,09:00,20:00,3.8,FALSE
+514,Dare,Korean,Expensive,Murray Hill,09:00,23:00,3.1,FALSE
+515,Luise,Korean,Expensive,Kips Bay,08:00,19:00,2.0,TRUE
+516,Meredithe,Japanese,Expensive,Inwood,10:00,19:00,2.7,FALSE
+517,Charlot,American,Medium,Lower East Side,10:00,22:00,3.8,TRUE
+518,Wallache,Japanese,Cheap,Upper East Side,11:00,21:00,2.5,FALSE
+519,Sumner,American,Medium,Upper West Side,08:00,21:00,4.6,TRUE
+520,Madelyn,Mixed,Cheap,Turtle Bay,11:00,18:00,3.2,TRUE
+521,Cairistiona,French,Cheap,Morningside Heights,06:00,23:00,4.9,FALSE
+522,Giustina,Mexican,Cheap,Upper West Side,08:00,23:00,2.4,TRUE
+523,Rosemary,Chinese,Expensive,Midtown,11:00,19:00,3.9,FALSE
+524,Amalie,French,Medium,East Village,08:00,16:00,2.4,TRUE
+525,Fletch,Mexican,Cheap,Murray Hill,07:00,20:00,3.6,TRUE
+526,Baldwin,Mixed,Medium,Upper East Side,09:00,22:00,3.9,FALSE
+527,Hastie,Chinese,Cheap,Chelsea,07:00,23:00,3.2,TRUE
+528,Beverley,American,Medium,West Village,06:00,17:00,3.3,TRUE
+529,Terrell,Japanese,Expensive,Murray Hill,07:00,16:00,2.3,TRUE
+530,Jordanna,American,Cheap,TriBeCa,08:00,21:00,3.7,TRUE
+531,Tonie,Korean,Medium,Battery Park City,07:00,18:00,2.1,FALSE
+532,Baxy,Spanish,Cheap,Chelsea,11:00,16:00,2.3,FALSE
+533,Shae,African,Expensive,Chelsea,07:00,16:00,2.8,TRUE
+534,Gates,Korean,Medium,Harlem,10:00,18:00,4.5,TRUE
+535,Olin,Mexican,Expensive,Murray Hill,07:00,17:00,4.0,TRUE
+536,Rowan,Spanish,Expensive,Central Harlem,08:00,18:00,3.3,FALSE
+537,Jennica,Japanese,Cheap,Battery Park City,11:00,17:00,4.8,FALSE
+538,Mandie,Korean,Medium,Midtown,10:00,22:00,2.8,FALSE
+539,Casi,Korean,Cheap,East Village,08:00,20:00,4.8,FALSE
+540,Bevan,American,Expensive,Central Harlem,08:00,22:00,2.8,FALSE
+541,Eberhard,Japanese,Expensive,Harlem,10:00,16:00,2.4,TRUE
+542,Coop,Spanish,Medium,Chelsea,10:00,23:00,2.6,TRUE
+543,Zsa zsa,Mixed,Medium,TriBeCa,07:00,23:00,3.0,TRUE
+544,Daryl,Spanish,Cheap,Turtle Bay,07:00,22:00,3.0,TRUE
+545,Renelle,Korean,Expensive,Inwood,11:00,18:00,4.6,FALSE
+546,Maury,Italian,Medium,Upper East Side,10:00,17:00,4.2,TRUE
+547,Hildagard,American,Expensive,SoHo,07:00,20:00,2.4,TRUE
+548,Natty,African,Medium,Washington Heights,08:00,22:00,4.3,TRUE
+549,Allina,Italian,Medium,Central Harlem,07:00,18:00,4.2,FALSE
+550,Minnaminnie,Spanish,Medium,Lower East Side,08:00,21:00,2.2,FALSE
+551,Christabel,Mixed,Cheap,SoHo,07:00,21:00,3.7,FALSE
+552,Callida,African,Medium,Battery Park City,06:00,22:00,4.8,TRUE
+553,Grove,Chinese,Medium,Upper West Side,06:00,21:00,2.2,TRUE
+554,Jenn,Italian,Expensive,Turtle Bay,07:00,17:00,3.1,FALSE
+555,Tyrus,Japanese,Cheap,Chelsea,10:00,21:00,2.7,FALSE
+556,Jacquie,Mixed,Cheap,Morningside Heights,07:00,17:00,2.7,TRUE
+557,Mavis,Mixed,Medium,Battery Park City,08:00,21:00,2.4,FALSE
+558,Shandee,French,Medium,Washington Heights,07:00,20:00,2.5,FALSE
+559,Burt,African,Cheap,Morningside Heights,09:00,21:00,3.9,TRUE
+560,Bernhard,French,Medium,Murray Hill,08:00,18:00,2.0,FALSE
+561,Audy,African,Expensive,Murray Hill,11:00,19:00,2.9,TRUE
+562,Craggie,French,Medium,TriBeCa,06:00,22:00,4.8,TRUE
+563,Faunie,Spanish,Cheap,Lower East Side,07:00,19:00,3.7,FALSE
+564,Sonnnie,Mexican,Expensive,SoHo,09:00,18:00,4.6,TRUE
+565,Nollie,Spanish,Cheap,Upper East Side,09:00,18:00,4.7,FALSE
+566,Arluene,Italian,Medium,Upper East Side,10:00,17:00,3.4,FALSE
+567,Frederica,American,Expensive,TriBeCa,11:00,22:00,2.5,TRUE
+568,Marabel,Japanese,Cheap,Murray Hill,10:00,16:00,4.9,TRUE
+569,Else,Chinese,Expensive,SoHo,11:00,19:00,3.5,TRUE
+570,Helge,Italian,Expensive,East Village,11:00,17:00,2.1,TRUE
+571,Ethan,Mixed,Medium,Inwood,09:00,20:00,4.6,FALSE
+572,Darsie,Italian,Medium,Upper West Side,11:00,21:00,4.6,TRUE
+573,Howey,Mixed,Medium,Morningside Heights,10:00,18:00,4.4,TRUE
+574,Kiersten,Korean,Medium,Harlem,09:00,19:00,2.1,FALSE
+575,Reider,Mixed,Expensive,Washington Heights,08:00,17:00,4.0,FALSE
+576,Lynsey,Spanish,Medium,Lower East Side,07:00,20:00,4.5,FALSE
+577,Sigismondo,Japanese,Expensive,Chelsea,07:00,22:00,4.5,FALSE
+578,Dore,African,Cheap,Chelsea,11:00,16:00,3.0,TRUE
+579,Ulrike,Italian,Medium,Upper East Side,11:00,23:00,3.8,TRUE
+580,Frazier,Mexican,Expensive,Kips Bay,09:00,18:00,2.9,TRUE
+581,Nananne,Chinese,Medium,Murray Hill,06:00,16:00,3.5,TRUE
+582,Wit,Korean,Expensive,Kips Bay,08:00,19:00,2.8,TRUE
+583,Aldridge,American,Medium,Inwood,11:00,22:00,2.6,FALSE
+584,Caryl,Mexican,Expensive,Central Harlem,11:00,18:00,3.8,FALSE
+585,Evaleen,Japanese,Expensive,Midtown,08:00,17:00,4.3,TRUE
+586,Car,Chinese,Cheap,Washington Heights,06:00,17:00,2.2,FALSE
+587,Madelaine,Spanish,Expensive,Murray Hill,06:00,22:00,3.1,TRUE
+588,Boot,Spanish,Expensive,SoHo,11:00,23:00,2.3,TRUE
+589,Basil,Mixed,Expensive,Greenwich Village,11:00,22:00,3.1,FALSE
+590,Jordana,Mexican,Expensive,Greenwich Village,10:00,22:00,3.8,FALSE
+591,Jacinthe,Korean,Expensive,Harlem,08:00,20:00,2.9,TRUE
+592,Currie,French,Medium,Kips Bay,10:00,17:00,2.6,TRUE
+593,Faith,Chinese,Expensive,TriBeCa,07:00,16:00,2.9,TRUE
+594,Herb,French,Expensive,Midtown,08:00,23:00,3.3,TRUE
+595,Norrie,Chinese,Cheap,East Village,08:00,21:00,2.8,TRUE
+596,Abdul,American,Expensive,Midtown,11:00,19:00,4.4,TRUE
+597,Mortie,American,Expensive,Harlem,09:00,22:00,3.2,TRUE
+598,Pauly,American,Cheap,Harlem,07:00,22:00,4.3,FALSE
+599,Vikki,Korean,Cheap,East Village,07:00,21:00,2.6,FALSE
+600,Doreen,Italian,Medium,Chelsea,06:00,20:00,3.2,FALSE
+601,Sunny,Korean,Cheap,East Village,10:00,19:00,3.4,FALSE
+602,Rudolfo,Spanish,Cheap,Upper West Side,09:00,16:00,2.7,TRUE
+603,Alexine,Italian,Medium,Central Harlem,11:00,18:00,3.3,FALSE
+604,Avigdor,Spanish,Cheap,Midtown,09:00,19:00,4.3,FALSE
+605,Ambrosi,African,Medium,Turtle Bay,06:00,21:00,3.9,FALSE
+606,Jackqueline,Korean,Expensive,Greenwich Village,11:00,18:00,3.7,TRUE
+607,Griswold,American,Cheap,Harlem,06:00,18:00,4.6,FALSE
+608,Gabbie,Mexican,Medium,Greenwich Village,07:00,18:00,2.1,TRUE
+609,Gertie,Mexican,Cheap,Gramercy Park,11:00,23:00,2.8,TRUE
+610,Jacky,Mexican,Medium,Battery Park City,09:00,18:00,4.6,FALSE
+611,Marigold,Japanese,Medium,Chelsea,06:00,21:00,2.1,TRUE
+612,Joli,Mexican,Cheap,West Village,11:00,17:00,3.4,TRUE
+613,Laina,African,Expensive,Lower East Side,08:00,23:00,4.6,TRUE
+614,Gery,Italian,Medium,Midtown,07:00,22:00,3.0,TRUE
+615,Sibylla,Korean,Expensive,Turtle Bay,11:00,21:00,4.9,FALSE
+616,Rad,Spanish,Cheap,Upper East Side,10:00,20:00,3.1,FALSE
+617,Kata,Mexican,Cheap,Upper West Side,08:00,19:00,4.2,FALSE
+618,Bride,Japanese,Medium,Midtown,06:00,22:00,2.9,TRUE
+619,Belvia,Italian,Cheap,Central Harlem,06:00,19:00,2.2,FALSE
+620,Chico,French,Cheap,Greenwich Village,08:00,17:00,3.7,FALSE
+621,Harley,Japanese,Medium,Harlem,06:00,23:00,3.1,TRUE
+622,Alfreda,Italian,Cheap,Greenwich Village,06:00,23:00,3.8,FALSE
+623,Fredia,Mexican,Cheap,East Village,06:00,23:00,2.4,FALSE
+624,Jarred,Spanish,Cheap,Midtown,06:00,16:00,2.3,FALSE
+625,Quinlan,American,Medium,Kips Bay,06:00,16:00,4.1,FALSE
+626,Corrina,Italian,Medium,Upper West Side,08:00,18:00,3.1,FALSE
+627,Flossi,Mixed,Expensive,Greenwich Village,09:00,22:00,3.7,TRUE
+628,Shaw,Japanese,Expensive,Central Harlem,08:00,23:00,2.6,FALSE
+629,Obadiah,Mexican,Expensive,Upper West Side,07:00,16:00,3.7,TRUE
+630,Claudetta,Italian,Cheap,Kips Bay,07:00,21:00,3.5,TRUE
+631,Melitta,Mixed,Expensive,Midtown,09:00,21:00,4.7,TRUE
+632,Culver,Mexican,Expensive,Morningside Heights,11:00,22:00,2.4,TRUE
+633,Vaughan,Japanese,Medium,Harlem,06:00,18:00,2.1,FALSE
+634,Adolphus,African,Cheap,Murray Hill,08:00,18:00,4.4,FALSE
+635,Ava,Italian,Cheap,East Village,08:00,23:00,4.8,TRUE
+636,Adaline,French,Cheap,Inwood,07:00,17:00,3.2,TRUE
+637,Gusti,American,Expensive,Upper West Side,08:00,16:00,3.1,FALSE
+638,Maurizio,Mexican,Expensive,Harlem,08:00,19:00,4.8,TRUE
+639,Linnie,African,Expensive,Lower East Side,08:00,17:00,2.2,TRUE
+640,Silvan,Chinese,Expensive,Inwood,07:00,18:00,2.9,FALSE
+641,Matthias,French,Expensive,Turtle Bay,06:00,16:00,2.2,FALSE
+642,Siouxie,Mexican,Expensive,Kips Bay,10:00,19:00,4.0,TRUE
+643,Kasey,French,Medium,East Village,11:00,17:00,4.7,FALSE
+644,Rance,American,Medium,Upper East Side,11:00,21:00,2.4,TRUE
+645,Bethena,African,Medium,Chelsea,10:00,20:00,2.4,TRUE
+646,Celene,French,Medium,Harlem,08:00,23:00,4.1,FALSE
+647,Gisella,Mexican,Cheap,Upper West Side,11:00,23:00,4.7,TRUE
+648,Griz,Chinese,Cheap,SoHo,07:00,23:00,3.6,FALSE
+649,Alethea,Italian,Medium,Turtle Bay,09:00,17:00,3.2,TRUE
+650,Travers,Japanese,Cheap,Battery Park City,06:00,21:00,3.7,FALSE
+651,Darline,Korean,Medium,Greenwich Village,11:00,23:00,4.7,TRUE
+652,Von,Korean,Expensive,Central Harlem,06:00,19:00,3.9,FALSE
+653,Darsey,American,Expensive,Midtown,07:00,19:00,3.2,TRUE
+654,Loree,African,Cheap,Gramercy Park,11:00,21:00,2.7,TRUE
+655,Bathsheba,Korean,Expensive,Washington Heights,07:00,22:00,2.5,FALSE
+656,Willard,Korean,Expensive,Lower East Side,10:00,17:00,4.1,FALSE
+657,Zonda,French,Medium,Upper West Side,09:00,19:00,4.9,FALSE
+658,Leisha,Chinese,Expensive,Inwood,10:00,20:00,4.6,FALSE
+659,Stanislas,American,Expensive,Lower East Side,08:00,21:00,4.6,TRUE
+660,Joseito,Mixed,Expensive,Lower East Side,06:00,23:00,2.8,TRUE
+661,Allison,French,Expensive,Midtown,06:00,21:00,2.9,TRUE
+662,Eula,Chinese,Cheap,East Village,08:00,23:00,3.1,TRUE
+663,Osmond,African,Medium,East Village,10:00,16:00,3.1,FALSE
+664,Dionis,Italian,Cheap,Greenwich Village,08:00,19:00,3.8,TRUE
+665,Auguste,Spanish,Medium,Harlem,08:00,22:00,3.9,TRUE
+666,Siffre,Italian,Expensive,Turtle Bay,10:00,19:00,4.4,TRUE
+667,Ileane,French,Expensive,Greenwich Village,10:00,22:00,3.8,TRUE
+668,Belia,Chinese,Cheap,Morningside Heights,07:00,16:00,3.9,FALSE
+669,Esmaria,Chinese,Cheap,Inwood,08:00,21:00,2.1,TRUE
+670,Tonie,French,Cheap,Murray Hill,06:00,18:00,3.1,FALSE
+671,Tami,African,Cheap,Greenwich Village,11:00,21:00,3.8,TRUE
+672,Aurthur,Italian,Cheap,Turtle Bay,11:00,20:00,3.9,FALSE
+673,Melanie,Spanish,Expensive,West Village,08:00,17:00,4.8,TRUE
+674,Cristionna,American,Expensive,Upper West Side,07:00,21:00,5.0,TRUE
+675,Baldwin,Japanese,Expensive,Washington Heights,10:00,23:00,4.8,FALSE
+676,Octavia,American,Medium,SoHo,11:00,22:00,4.1,TRUE
+677,Sauveur,Mexican,Medium,Battery Park City,06:00,21:00,3.5,FALSE
+678,Jaclin,French,Cheap,SoHo,08:00,19:00,4.8,FALSE
+679,Donielle,Japanese,Medium,Kips Bay,09:00,18:00,4.4,FALSE
+680,Krishnah,Korean,Expensive,Chelsea,09:00,22:00,4.0,TRUE
+681,Happy,French,Cheap,TriBeCa,08:00,23:00,3.9,FALSE
+682,Derrik,African,Cheap,TriBeCa,10:00,18:00,2.5,FALSE
+683,Tiffie,Chinese,Expensive,Greenwich Village,08:00,18:00,2.8,TRUE
+684,Ewen,Korean,Expensive,Kips Bay,10:00,17:00,2.6,FALSE
+685,Flemming,Mixed,Medium,SoHo,07:00,18:00,4.1,TRUE
+686,Thibaut,American,Cheap,Gramercy Park,09:00,16:00,4.6,FALSE
+687,Joscelin,Mixed,Expensive,Harlem,10:00,16:00,2.2,TRUE
+688,Jakob,Italian,Expensive,Kips Bay,06:00,19:00,4.4,FALSE
+689,Rustin,Mexican,Medium,Murray Hill,07:00,17:00,4.4,TRUE
+690,Lurline,Korean,Expensive,Central Harlem,08:00,23:00,2.1,TRUE
+691,Cheston,American,Expensive,Chelsea,07:00,16:00,2.6,FALSE
+692,Anabelle,Spanish,Medium,TriBeCa,08:00,21:00,2.1,TRUE
+693,Shadow,French,Expensive,Inwood,08:00,16:00,2.5,TRUE
+694,Aldridge,Mexican,Expensive,Midtown,07:00,19:00,4.2,FALSE
+695,Amble,Mexican,Medium,Midtown,11:00,18:00,2.4,FALSE
+696,Creighton,Korean,Cheap,Washington Heights,06:00,21:00,2.7,FALSE
+697,Leicester,Spanish,Medium,Central Harlem,07:00,18:00,4.9,TRUE
+698,Colene,Mixed,Cheap,Turtle Bay,08:00,17:00,3.7,FALSE
+699,Freeland,Italian,Medium,Harlem,11:00,22:00,3.7,TRUE
+700,Danyelle,Chinese,Cheap,Greenwich Village,11:00,19:00,4.4,FALSE
+701,Jilly,French,Cheap,Harlem,11:00,19:00,4.1,FALSE
+702,Dwayne,French,Expensive,Midtown,09:00,22:00,3.1,FALSE
+703,Ricky,African,Expensive,Gramercy Park,06:00,20:00,3.9,TRUE
+704,Lorain,Spanish,Expensive,Upper East Side,08:00,19:00,2.3,TRUE
+705,Gerry,French,Medium,Washington Heights,06:00,18:00,4.8,FALSE
+706,Jeff,Japanese,Expensive,TriBeCa,08:00,20:00,3.8,FALSE
+707,Kent,Spanish,Cheap,Central Harlem,10:00,23:00,4.4,TRUE
+708,Cassondra,Italian,Medium,SoHo,06:00,19:00,2.3,FALSE
+709,Burk,Chinese,Medium,Chelsea,11:00,16:00,3.1,FALSE
+710,Kelcie,Italian,Medium,Greenwich Village,09:00,16:00,2.7,TRUE
+711,Montgomery,African,Expensive,Gramercy Park,09:00,18:00,3.0,TRUE
+712,Valentine,Mexican,Medium,Lower East Side,10:00,22:00,3.2,TRUE
+713,Erda,Chinese,Expensive,Battery Park City,10:00,23:00,5.0,TRUE
+714,Ody,American,Medium,West Village,10:00,22:00,4.1,FALSE
+715,Sile,French,Expensive,Gramercy Park,11:00,18:00,3.0,TRUE
+716,Noble,Mixed,Medium,Greenwich Village,11:00,19:00,4.7,TRUE
+717,Silva,Spanish,Medium,Harlem,08:00,22:00,3.8,FALSE
+718,Marie,African,Medium,Lower East Side,08:00,21:00,2.5,TRUE
+719,Lyndsie,Italian,Cheap,Kips Bay,11:00,22:00,2.1,FALSE
+720,Arlene,French,Medium,Upper West Side,09:00,23:00,4.3,FALSE
+721,Arly,Spanish,Medium,Upper West Side,07:00,20:00,2.8,TRUE
+722,Kinna,Chinese,Cheap,Washington Heights,08:00,21:00,4.2,FALSE
+723,Jard,Japanese,Medium,Central Harlem,11:00,22:00,3.1,TRUE
+724,Cornie,Japanese,Cheap,Turtle Bay,10:00,22:00,4.5,FALSE
+725,Loreen,American,Medium,Upper West Side,09:00,19:00,4.9,TRUE
+726,Corabelle,Italian,Expensive,Upper West Side,10:00,19:00,2.2,FALSE
+727,Craggie,African,Expensive,Lower East Side,08:00,16:00,3.4,TRUE
+728,Fenelia,American,Cheap,Morningside Heights,11:00,16:00,2.2,FALSE
+729,Abraham,Mixed,Cheap,SoHo,10:00,17:00,4.5,FALSE
+730,Cris,Mexican,Cheap,Chelsea,11:00,16:00,3.8,TRUE
+731,Hermione,Mexican,Medium,Murray Hill,10:00,17:00,4.4,FALSE
+732,Devlin,Mexican,Expensive,Chelsea,06:00,23:00,4.5,TRUE
+733,Ham,African,Expensive,Washington Heights,08:00,16:00,4.9,TRUE
+734,Vincenty,Mixed,Cheap,SoHo,09:00,16:00,3.7,FALSE
+735,Tarrance,American,Cheap,Central Harlem,11:00,21:00,5.0,TRUE
+736,Gratia,French,Cheap,SoHo,11:00,21:00,2.0,TRUE
+737,Marianna,Mexican,Medium,West Village,11:00,17:00,2.1,FALSE
+738,Alair,Mixed,Medium,Lower East Side,11:00,22:00,3.2,FALSE
+739,Alicea,Korean,Medium,Battery Park City,06:00,19:00,4.7,FALSE
+740,Bondon,Chinese,Expensive,Central Harlem,10:00,19:00,3.4,TRUE
+741,Lanna,Spanish,Expensive,Murray Hill,11:00,17:00,2.8,TRUE
+742,Adler,Mexican,Expensive,Morningside Heights,09:00,20:00,3.9,FALSE
+743,Zacharia,Mexican,Cheap,Greenwich Village,10:00,17:00,3.8,TRUE
+744,Jan,African,Medium,Midtown,07:00,23:00,2.2,FALSE
+745,Frank,Mixed,Cheap,SoHo,10:00,18:00,3.5,TRUE
+746,Alina,African,Medium,West Village,11:00,22:00,2.9,TRUE
+747,Lula,African,Medium,Turtle Bay,08:00,18:00,4.8,TRUE
+748,Phil,Mixed,Expensive,Morningside Heights,10:00,18:00,2.2,FALSE
+749,Hunfredo,Mexican,Medium,Upper East Side,06:00,20:00,2.9,FALSE
+750,Caro,French,Medium,West Village,09:00,20:00,2.2,FALSE
+751,Derby,Italian,Cheap,Murray Hill,11:00,22:00,2.0,TRUE
+752,Zachery,Japanese,Medium,Inwood,09:00,16:00,3.5,TRUE
+753,Fabiano,Mixed,Cheap,Kips Bay,09:00,20:00,3.4,FALSE
+754,Giorgio,Chinese,Expensive,TriBeCa,10:00,18:00,4.5,TRUE
+755,Simeon,Korean,Expensive,Battery Park City,09:00,23:00,3.9,FALSE
+756,Bonni,French,Cheap,Greenwich Village,07:00,19:00,4.0,FALSE
+757,Daron,Italian,Medium,Inwood,09:00,22:00,4.9,FALSE
+758,Miran,French,Expensive,Battery Park City,07:00,20:00,3.3,FALSE
+759,Dulcinea,Italian,Medium,Inwood,09:00,17:00,4.7,FALSE
+760,Bartholomeus,African,Expensive,Gramercy Park,06:00,20:00,2.9,FALSE
+761,Kristien,African,Expensive,Gramercy Park,11:00,18:00,3.0,FALSE
+762,Gabi,French,Medium,Greenwich Village,09:00,17:00,4.7,TRUE
+763,Sadella,French,Medium,Lower East Side,06:00,21:00,2.5,TRUE
+764,Annetta,Japanese,Expensive,Greenwich Village,10:00,20:00,3.4,FALSE
+765,Jim,Korean,Medium,Harlem,10:00,18:00,3.9,TRUE
+766,Ula,French,Medium,Inwood,07:00,17:00,2.4,FALSE
+767,Lanna,Mixed,Cheap,Central Harlem,10:00,18:00,3.7,FALSE
+768,Alexine,Japanese,Expensive,Midtown,07:00,16:00,2.7,FALSE
+769,Riva,Mexican,Expensive,Lower East Side,06:00,20:00,4.5,TRUE
+770,Hillie,African,Expensive,Battery Park City,09:00,20:00,4.2,FALSE
+771,Calv,Mixed,Expensive,Upper West Side,09:00,20:00,2.3,TRUE
+772,Sylvan,Japanese,Medium,Battery Park City,11:00,19:00,4.6,FALSE
+773,Angelina,Mixed,Cheap,West Village,10:00,19:00,3.4,TRUE
+774,Berta,African,Cheap,Harlem,08:00,16:00,3.4,TRUE
+775,Henryetta,Japanese,Medium,Upper East Side,08:00,23:00,2.8,TRUE
+776,Josey,American,Cheap,Lower East Side,11:00,20:00,4.3,FALSE
+777,Ring,Mixed,Medium,Murray Hill,07:00,18:00,2.7,TRUE
+778,Pen,Mixed,Cheap,West Village,11:00,22:00,4.2,TRUE
+779,Janel,Chinese,Cheap,Inwood,10:00,22:00,2.7,FALSE
+780,Enoch,Italian,Medium,SoHo,11:00,16:00,2.4,TRUE
+781,Beret,Spanish,Expensive,TriBeCa,09:00,19:00,2.7,TRUE
+782,Kipper,French,Cheap,SoHo,07:00,20:00,3.3,TRUE
+783,Corney,Italian,Expensive,Washington Heights,08:00,21:00,3.6,TRUE
+784,Dionis,Mexican,Cheap,Turtle Bay,07:00,18:00,3.1,FALSE
+785,Yettie,Mixed,Expensive,Kips Bay,07:00,21:00,2.2,FALSE
+786,Andriana,Mexican,Expensive,Turtle Bay,07:00,22:00,4.8,FALSE
+787,Jefferey,Chinese,Expensive,Kips Bay,10:00,16:00,2.6,FALSE
+788,Judith,Japanese,Cheap,SoHo,08:00,23:00,4.2,FALSE
+789,Staford,Mexican,Medium,East Village,07:00,18:00,2.4,TRUE
+790,Myrvyn,Mixed,Cheap,Murray Hill,08:00,16:00,4.3,FALSE
+791,Bridie,African,Cheap,SoHo,09:00,22:00,4.5,TRUE
+792,Lila,Mexican,Cheap,East Village,08:00,16:00,2.3,FALSE
+793,Ailee,Japanese,Medium,Battery Park City,06:00,22:00,2.6,TRUE
+794,Blanch,American,Medium,Midtown,11:00,22:00,4.4,FALSE
+795,Alberta,Italian,Medium,Morningside Heights,11:00,20:00,4.2,FALSE
+796,Malinde,Korean,Medium,East Village,10:00,18:00,2.7,FALSE
+797,Carmita,Mexican,Cheap,Harlem,11:00,20:00,3.9,TRUE
+798,Cloe,Spanish,Medium,West Village,07:00,18:00,3.6,FALSE
+799,Elfrida,African,Expensive,East Village,10:00,17:00,3.6,TRUE
+800,Kira,Mexican,Medium,Midtown,10:00,19:00,4.3,TRUE
+801,Jennine,Chinese,Cheap,Washington Heights,07:00,16:00,4.1,FALSE
+802,Ramon,Mexican,Medium,Central Harlem,11:00,18:00,3.2,FALSE
+803,Arnold,Mixed,Cheap,Upper East Side,06:00,18:00,2.4,TRUE
+804,Jane,African,Medium,Battery Park City,09:00,17:00,3.9,FALSE
+805,Cristie,Mexican,Medium,Greenwich Village,07:00,20:00,3.1,TRUE
+806,Lewie,French,Cheap,Inwood,11:00,19:00,4.1,TRUE
+807,Murial,Mexican,Cheap,Midtown,09:00,20:00,4.5,TRUE
+808,Burt,Chinese,Medium,Inwood,07:00,17:00,3.6,TRUE
+809,Star,French,Medium,Lower East Side,11:00,17:00,2.1,FALSE
+810,Sharia,Chinese,Cheap,East Village,09:00,18:00,4.4,FALSE
+811,Yetta,Chinese,Medium,Inwood,09:00,23:00,4.2,FALSE
+812,Linell,Japanese,Medium,Central Harlem,06:00,22:00,2.2,TRUE
+813,Franciskus,Chinese,Cheap,Inwood,06:00,19:00,3.7,FALSE
+814,Claudelle,Chinese,Medium,Upper East Side,09:00,18:00,2.4,TRUE
+815,Rozanne,African,Expensive,Upper East Side,11:00,21:00,3.1,TRUE
+816,Horatius,American,Expensive,Upper East Side,09:00,22:00,2.2,FALSE
+817,King,Spanish,Cheap,Battery Park City,06:00,17:00,3.5,TRUE
+818,Velma,Italian,Medium,Midtown,08:00,16:00,3.8,FALSE
+819,Faye,Mexican,Cheap,Kips Bay,10:00,20:00,3.5,TRUE
+820,Richard,Japanese,Expensive,Upper West Side,11:00,16:00,2.3,FALSE
+821,Ailey,French,Medium,TriBeCa,06:00,23:00,2.6,FALSE
+822,Dana,Mixed,Expensive,TriBeCa,09:00,22:00,3.5,TRUE
+823,Tim,African,Cheap,West Village,08:00,21:00,4.3,FALSE
+824,Carolyne,Korean,Expensive,Morningside Heights,09:00,16:00,2.5,TRUE
+825,Dorian,American,Expensive,SoHo,06:00,20:00,3.1,FALSE
+826,Goldie,Japanese,Cheap,Morningside Heights,10:00,21:00,3.9,TRUE
+827,Jillana,French,Expensive,TriBeCa,10:00,17:00,5.0,TRUE
+828,Shandy,American,Cheap,Murray Hill,11:00,16:00,2.2,FALSE
+829,Bendite,Spanish,Expensive,East Village,06:00,21:00,4.4,TRUE
+830,Carolan,Japanese,Cheap,West Village,08:00,21:00,3.6,TRUE
+831,Caitlin,Italian,Medium,Upper West Side,07:00,17:00,4.9,TRUE
+832,Augustina,Japanese,Expensive,Inwood,06:00,22:00,4.6,FALSE
+833,Wilburt,Mixed,Expensive,Harlem,08:00,17:00,3.6,FALSE
+834,Marysa,Spanish,Cheap,Washington Heights,09:00,23:00,3.6,TRUE
+835,Rich,Japanese,Expensive,East Village,09:00,16:00,2.9,TRUE
+836,Leilah,Japanese,Expensive,Upper West Side,06:00,19:00,4.0,TRUE
+837,Rhett,French,Medium,Murray Hill,10:00,18:00,3.8,TRUE
+838,Jdavie,Italian,Expensive,Washington Heights,11:00,19:00,4.9,FALSE
+839,Wilmer,Japanese,Medium,Inwood,08:00,18:00,4.8,TRUE
+840,Basil,Korean,Expensive,Murray Hill,06:00,16:00,2.9,FALSE
+841,Urbanus,French,Cheap,Kips Bay,08:00,19:00,3.6,TRUE
+842,Lurlene,Korean,Medium,Greenwich Village,08:00,23:00,2.8,TRUE
+843,Fredi,Mixed,Cheap,Morningside Heights,07:00,21:00,4.0,FALSE
+844,Ludovika,Chinese,Expensive,Gramercy Park,06:00,22:00,2.8,FALSE
+845,Frederique,African,Expensive,East Village,08:00,22:00,2.6,TRUE
+846,Aldric,Japanese,Medium,Central Harlem,11:00,17:00,2.8,FALSE
+847,Bentlee,Chinese,Cheap,Battery Park City,10:00,23:00,3.9,TRUE
+848,Domeniga,Korean,Medium,Greenwich Village,08:00,17:00,3.2,FALSE
+849,Teodoro,Mixed,Cheap,SoHo,10:00,23:00,2.5,FALSE
+850,Verene,Korean,Cheap,Inwood,09:00,23:00,2.8,TRUE
+851,Jemimah,Mexican,Medium,West Village,08:00,21:00,3.2,FALSE
+852,Tara,French,Cheap,SoHo,07:00,19:00,3.0,TRUE
+853,Oren,Mexican,Medium,Gramercy Park,11:00,22:00,4.6,FALSE
+854,Adria,French,Expensive,Washington Heights,07:00,22:00,4.1,TRUE
+855,Vinni,Korean,Medium,Chelsea,06:00,17:00,4.6,FALSE
+856,Afton,Italian,Cheap,Lower East Side,08:00,21:00,2.3,FALSE
+857,Collin,American,Expensive,Morningside Heights,10:00,23:00,2.7,TRUE
+858,Mariska,Mexican,Medium,Upper West Side,09:00,19:00,2.2,FALSE
+859,Daisie,Italian,Cheap,Greenwich Village,07:00,21:00,3.4,TRUE
+860,Kevon,Korean,Medium,Upper West Side,07:00,20:00,3.0,TRUE
+861,Vanny,American,Expensive,Inwood,07:00,19:00,5.0,FALSE
+862,Jessamyn,Italian,Expensive,Battery Park City,11:00,23:00,2.5,FALSE
+863,Brooke,Spanish,Expensive,Inwood,07:00,19:00,3.1,FALSE
+864,Coleman,Mixed,Expensive,Battery Park City,08:00,22:00,2.6,TRUE
+865,Elva,American,Expensive,Morningside Heights,08:00,21:00,2.1,TRUE
+866,Marylinda,Mexican,Medium,Washington Heights,07:00,23:00,2.9,TRUE
+867,Yale,Mixed,Cheap,Midtown,06:00,22:00,4.6,FALSE
+868,Lazar,Italian,Expensive,Battery Park City,10:00,21:00,4.9,TRUE
+869,Costa,African,Cheap,Washington Heights,09:00,19:00,3.2,FALSE
+870,Bell,Italian,Cheap,Lower East Side,11:00,21:00,2.3,FALSE
+871,Orella,Korean,Medium,Lower East Side,10:00,22:00,2.1,FALSE
+872,Cherilynn,Korean,Cheap,Upper West Side,06:00,22:00,4.1,TRUE
+873,Natty,Mixed,Cheap,TriBeCa,08:00,21:00,2.6,FALSE
+874,Wynne,French,Medium,Morningside Heights,06:00,16:00,3.3,FALSE
+875,Salmon,Mixed,Expensive,Battery Park City,07:00,18:00,2.8,FALSE
+876,Almeta,African,Expensive,Upper East Side,09:00,16:00,2.2,TRUE
+877,Antoni,American,Medium,Harlem,06:00,21:00,4.0,FALSE
+878,Evonne,Japanese,Cheap,Upper East Side,11:00,19:00,2.8,FALSE
+879,Norry,French,Cheap,SoHo,09:00,16:00,4.9,TRUE
+880,Brook,Chinese,Cheap,TriBeCa,08:00,19:00,3.6,TRUE
+881,Koralle,Spanish,Expensive,Lower East Side,07:00,20:00,2.3,TRUE
+882,Brynna,Korean,Cheap,Chelsea,09:00,22:00,3.9,TRUE
+883,Torrie,Spanish,Medium,SoHo,08:00,18:00,2.1,FALSE
+884,Harcourt,Chinese,Expensive,West Village,10:00,22:00,3.3,FALSE
+885,Immanuel,Korean,Expensive,SoHo,11:00,17:00,4.2,FALSE
+886,Allianora,Spanish,Expensive,Morningside Heights,06:00,18:00,2.8,TRUE
+887,Cinderella,Korean,Expensive,Inwood,11:00,19:00,2.6,FALSE
+888,Doralin,French,Expensive,Chelsea,07:00,20:00,3.3,TRUE
+889,Ardenia,Mixed,Expensive,Morningside Heights,08:00,20:00,4.5,FALSE
+890,Margret,Korean,Expensive,West Village,06:00,18:00,3.6,TRUE
+891,Malinda,Chinese,Cheap,Central Harlem,07:00,20:00,4.9,TRUE
+892,Maxim,African,Cheap,Morningside Heights,11:00,17:00,2.9,TRUE
+893,Leif,Chinese,Expensive,Morningside Heights,08:00,18:00,3.1,FALSE
+894,Clevie,Spanish,Medium,Battery Park City,11:00,17:00,2.1,FALSE
+895,Dennie,French,Medium,Inwood,09:00,19:00,3.6,TRUE
+896,Audrie,Mexican,Cheap,Upper East Side,09:00,19:00,2.5,FALSE
+897,Tory,Mixed,Medium,Gramercy Park,06:00,18:00,2.9,FALSE
+898,Ric,Mixed,Cheap,Midtown,09:00,20:00,4.8,FALSE
+899,Moira,French,Cheap,Gramercy Park,09:00,18:00,4.2,FALSE
+900,Tiffie,Chinese,Cheap,Inwood,07:00,20:00,4.8,FALSE
+901,William,Korean,Medium,Chelsea,08:00,18:00,2.4,FALSE
+902,Miquela,Mixed,Expensive,Turtle Bay,09:00,20:00,3.3,FALSE
+903,Olin,Chinese,Medium,East Village,07:00,19:00,4.3,TRUE
+904,Doti,French,Expensive,Murray Hill,10:00,17:00,2.3,TRUE
+905,Robinet,Spanish,Expensive,West Village,10:00,22:00,4.8,TRUE
+906,Bail,Mixed,Medium,Battery Park City,09:00,18:00,3.7,FALSE
+907,Shalna,American,Medium,Turtle Bay,06:00,21:00,5.0,FALSE
+908,Boot,Chinese,Expensive,Upper East Side,08:00,19:00,2.5,FALSE
+909,Maurits,Chinese,Expensive,Murray Hill,09:00,22:00,4.4,FALSE
+910,Drona,Japanese,Medium,Lower East Side,07:00,23:00,4.8,FALSE
+911,Aili,French,Cheap,Morningside Heights,06:00,20:00,4.2,FALSE
+912,Maximo,Mexican,Medium,Midtown,07:00,22:00,3.4,FALSE
+913,Gradey,Korean,Cheap,Battery Park City,11:00,18:00,3.6,TRUE
+914,Buck,Italian,Medium,Turtle Bay,10:00,21:00,4.9,TRUE
+915,Ray,Spanish,Medium,Murray Hill,07:00,18:00,2.3,FALSE
+916,Shaughn,Chinese,Medium,Turtle Bay,06:00,20:00,2.3,TRUE
+917,Maisie,African,Medium,Battery Park City,09:00,16:00,3.2,TRUE
+918,Gerhardt,American,Expensive,SoHo,06:00,16:00,4.0,FALSE
+919,Rozalin,American,Medium,Midtown,10:00,20:00,2.6,TRUE
+920,Bentley,African,Expensive,Greenwich Village,08:00,20:00,4.2,TRUE
+921,Roana,French,Medium,Upper West Side,06:00,16:00,3.9,TRUE
+922,Brion,Italian,Expensive,Upper West Side,08:00,16:00,3.8,TRUE
+923,Bendicty,African,Expensive,West Village,09:00,17:00,3.3,FALSE
+924,Merrill,Japanese,Expensive,Upper West Side,11:00,18:00,4.5,TRUE
+925,Yuma,Chinese,Medium,TriBeCa,06:00,21:00,4.2,TRUE
+926,Ashil,Japanese,Cheap,TriBeCa,11:00,16:00,4.2,TRUE
+927,Boonie,Italian,Expensive,Central Harlem,06:00,19:00,4.9,TRUE
+928,May,African,Cheap,TriBeCa,09:00,16:00,2.2,FALSE
+929,Jenine,Japanese,Expensive,Murray Hill,10:00,20:00,4.7,TRUE
+930,Krystal,Mixed,Cheap,Upper East Side,07:00,17:00,2.9,FALSE
+931,Monroe,African,Medium,Turtle Bay,08:00,21:00,2.4,FALSE
+932,Elfrieda,Mexican,Expensive,Gramercy Park,11:00,18:00,2.1,TRUE
+933,Ermanno,Japanese,Medium,Central Harlem,09:00,20:00,4.3,FALSE
+934,Devinne,Korean,Expensive,Midtown,10:00,19:00,2.5,TRUE
+935,Elsie,American,Expensive,Lower East Side,11:00,23:00,3.2,FALSE
+936,Gleda,African,Cheap,East Village,11:00,21:00,2.3,FALSE
+937,Rosalie,Chinese,Expensive,Kips Bay,08:00,21:00,2.5,FALSE
+938,Audra,American,Cheap,West Village,09:00,21:00,2.5,TRUE
+939,Paige,Italian,Expensive,SoHo,07:00,23:00,2.8,FALSE
+940,Allan,Japanese,Expensive,Harlem,06:00,17:00,4.2,TRUE
+941,Hilton,Chinese,Expensive,Washington Heights,06:00,23:00,3.6,FALSE
+942,Stephenie,Mixed,Medium,Washington Heights,09:00,21:00,3.2,FALSE
+943,Auberta,Mexican,Cheap,Harlem,06:00,21:00,2.5,FALSE
+944,Herve,American,Expensive,Inwood,07:00,17:00,2.1,FALSE
+945,Wake,Spanish,Medium,Battery Park City,09:00,21:00,3.4,FALSE
+946,Iorgo,Mixed,Expensive,East Village,11:00,23:00,3.5,TRUE
+947,Yale,Korean,Expensive,SoHo,08:00,23:00,4.6,TRUE
+948,Rafferty,Chinese,Expensive,Battery Park City,10:00,17:00,4.2,FALSE
+949,Charita,French,Medium,East Village,07:00,19:00,3.6,FALSE
+950,Rozella,French,Expensive,Morningside Heights,11:00,19:00,4.5,TRUE
+951,Kirby,Korean,Cheap,Greenwich Village,10:00,19:00,3.1,FALSE
+952,Orlando,French,Cheap,Washington Heights,06:00,20:00,3.9,TRUE
+953,Morley,Mixed,Medium,Battery Park City,10:00,16:00,3.9,FALSE
+954,Jonell,Mexican,Medium,Washington Heights,11:00,20:00,2.3,TRUE
+955,Patrizius,Italian,Cheap,Turtle Bay,11:00,19:00,3.0,TRUE
+956,Vittoria,Korean,Medium,West Village,09:00,22:00,4.5,FALSE
+957,Tricia,Italian,Cheap,East Village,08:00,19:00,3.2,FALSE
+958,Carly,Italian,Medium,Inwood,10:00,20:00,4.7,FALSE
+959,Kristel,American,Medium,East Village,07:00,18:00,2.2,FALSE
+960,Chelsy,American,Medium,Battery Park City,06:00,19:00,2.6,FALSE
+961,Jedd,French,Medium,Greenwich Village,10:00,20:00,3.7,FALSE
+962,Allene,Spanish,Cheap,SoHo,08:00,23:00,2.6,TRUE
+963,Maison,Mexican,Cheap,Upper East Side,09:00,20:00,2.8,TRUE
+964,Patrick,Spanish,Cheap,Harlem,06:00,20:00,2.9,TRUE
+965,Carmel,American,Cheap,Upper East Side,06:00,21:00,4.5,TRUE
+966,Keriann,Spanish,Medium,Morningside Heights,07:00,20:00,2.3,TRUE
+967,Gardener,Japanese,Cheap,Midtown,10:00,17:00,2.7,TRUE
+968,Rora,Italian,Expensive,Morningside Heights,11:00,19:00,2.9,FALSE
+969,Marinna,Mexican,Medium,Greenwich Village,07:00,19:00,3.2,TRUE
+970,Chet,French,Expensive,Gramercy Park,08:00,22:00,2.4,FALSE
+971,Taite,French,Cheap,Central Harlem,10:00,18:00,4.9,TRUE
+972,Mikael,Mexican,Expensive,Morningside Heights,09:00,19:00,2.8,TRUE
+973,Thayne,Mexican,Medium,Morningside Heights,10:00,19:00,3.4,TRUE
+974,Helen,Chinese,Cheap,Kips Bay,07:00,19:00,2.1,TRUE
+975,Ewart,Spanish,Expensive,TriBeCa,10:00,18:00,3.0,FALSE
+976,Neel,Japanese,Cheap,Upper East Side,06:00,18:00,4.9,TRUE
+977,Gayle,Japanese,Medium,Greenwich Village,10:00,23:00,2.2,TRUE
+978,Cornelius,Italian,Expensive,SoHo,08:00,18:00,4.8,TRUE
+979,Boyce,Italian,Cheap,East Village,10:00,17:00,2.8,TRUE
+980,Cleve,Korean,Cheap,Inwood,11:00,21:00,4.5,FALSE
+981,Rhonda,African,Medium,West Village,10:00,23:00,4.5,TRUE
+982,Vergil,American,Expensive,Chelsea,10:00,18:00,4.2,TRUE
+983,Waylon,Italian,Cheap,Inwood,09:00,19:00,4.7,TRUE
+984,Grantley,Mixed,Cheap,Inwood,11:00,23:00,3.1,FALSE
+985,Letty,Spanish,Medium,Upper West Side,08:00,23:00,4.9,FALSE
+986,Yulma,French,Cheap,Harlem,07:00,20:00,5.0,TRUE
+987,Ambrose,American,Medium,Morningside Heights,10:00,21:00,3.7,TRUE
+988,Krishna,Chinese,Cheap,West Village,09:00,19:00,2.2,TRUE
+989,Tabbitha,African,Expensive,Lower East Side,08:00,17:00,4.0,FALSE
+990,Ram,African,Medium,Kips Bay,07:00,18:00,3.5,FALSE
+991,Bartram,African,Expensive,Battery Park City,06:00,16:00,4.5,TRUE
+992,Hyacinthie,Chinese,Cheap,West Village,09:00,23:00,3.9,TRUE
+993,Fallon,Spanish,Medium,Inwood,08:00,21:00,2.6,TRUE
+994,Arlyne,French,Cheap,Upper West Side,10:00,22:00,3.4,FALSE
+995,Gareth,Mexican,Expensive,Midtown,08:00,18:00,4.0,TRUE
+996,Dori,French,Cheap,Turtle Bay,09:00,21:00,4.5,TRUE
+997,Adorne,Mexican,Expensive,Harlem,07:00,18:00,3.8,FALSE
+998,Michaela,Mexican,Cheap,Greenwich Village,08:00,23:00,4.6,FALSE
+999,Farrand,Chinese,Medium,Battery Park City,09:00,23:00,4.0,TRUE
+1000,Mufi,American,Cheap,Central Harlem,08:00,20:00,3.2,FALSE
