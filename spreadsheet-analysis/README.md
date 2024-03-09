@@ -79,11 +79,11 @@ Average Non-P.S. Students in Temporary Housing: 52.74
 
 These statistics show that non-public schools were more than public schools, and the corresponding students and students in temporary housing were more in non-public schools, but the average number of students in temporary housing in public schools was 20 greater than that in non-public schools, so if thinking about the statistics relatively, public schools had more students in temporary housing. 
 
-![COLUMN.png](data/COLUMN.png)
+![COLUMN.png](COLUMN.png)
 
 This column chart shows that students doubled up were twice as many as students residing in a shelter, which could mean that the doubled-up was the most normal, comfortable, or convenient temporary housing for students in NYC.
 
-![PIE.png](data/PIE.png)
+![PIE.png](PIE.png)
 
 This pie chart shows the percentage of students in each type of temporary housing. The ratio is a bit skewed since the data of each category were suppressed more than the total values, but it is enough to illustrate some facts.
 
