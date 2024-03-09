@@ -1,0 +1,25 @@
+{% extends 'base.html' %} {% block container %}
+<h2>Update a Task</h2>
+<p>Edit your task here</p>
+<form method="POST" action="{{ url_for('edit_post', mongoid=mongoid) }}">
+  <p>
+    Task:
+    <input type="text" id="ftask" name="ftask" value="{{doc.task}}" /><br />
+  </p>
+  <p>
+    Description:
+    <textarea id="fdescription" name="fdescription">{{doc.description}}</textarea>
+  </p>
+  <p>
+    Priority:
+    <select name="fpriority">
+      <option value="important">Important</option>
+      <option value="basic">Basic</option>
+    </select>    
+  </p>
+  <p>
+    <a href="{{ url_for('read')}}">Cancel</a>
+    <input type="submit" name="post-btn" value="Save" />
+  </p>
+</form>
+{% endblock %}

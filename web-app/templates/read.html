@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2>All Tasks</h2>
+<p>Here are all your unfinished tasks
+    <div>
+        <h3>Delete All</h3>
+        <p>Click to delete everything. This action cannot be undone.</p>
+        <a href="{{url_for('delete_all')}}">Delete All</a>
+    </div>
+        
+    {% for doc in docs %}
+    <div>
+        <hr class="solid">
+        <p class="post" style="font-size: 20px">
+            Task - {{doc.task}} - {{doc.priority}}
+            <br>
+            created {{ doc.created_at.strftime("%H:%M on %d %B %Y") }}
+        </p>
+        <p style="font-size: 15px">
+            Description:
+            {{ doc.description }}
+            </br>
+        </p>
+        <p>
+            <a href="{{ url_for('edit',mongoid=doc._id)}}">Edit</a> | <a href="{{ url_for('delete',mongoid=doc._id)}}">Finish</a>
+        </p>
+            
+    </div>
+    {%endfor%}
+</p>
+{% endblock %}

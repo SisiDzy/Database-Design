@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block container %}
+<h2 id="user">Welcome to To-Do List!</h2>
+<p>Welcome to the To-Do List app. You have {{count}} tasks. 
+</p>
+
+<script>
+    const username = localStorage.getItem('username');
+    const user = document.querySelector('#user');
+
+    if (username) {
+        user.innerText = `Welcome Back, ${username}`;
+    } else {
+        const nameInput = prompt('What is your name?');
+        localStorage.setItem('username', nameInput);
+        user.innerText = `Nice to meet you, ${nameInput}`;
+    }
+
+</script>
+
+{% endblock %}
