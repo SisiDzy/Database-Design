@@ -44,9 +44,9 @@ for row in rows:
 ```
 
 Links to my data files:
-[The Original Data](data/temporaryhousing1819.csv); 
-[The Munged Data](data/clean_data.csv);
-[The Spreadsheet File](data/clean_data.xlsx)  
+[The Original Data](temporaryhousing1819.csv); 
+[The Munged Data](clean_data.csv);
+[The Spreadsheet File](clean_data.xlsx)  
 
 
 ## Analysis
